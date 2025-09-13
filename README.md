@@ -1,2 +1,2 @@
 # Neovim
-Configuration of Neovim enviroment trying to automate everything without use a mouse
+Neovim configuration and plugins to increase productivity on your workflow without touching the mouse
